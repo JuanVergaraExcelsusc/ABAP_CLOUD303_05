@@ -23,7 +23,6 @@ define view entity zr_bookings303_05a
 {
   key booking_uuid         as BookingUUID,
       parent_uuid          as TravelUUID,
-
       booking_id           as BookingID,
       booking_date         as BookingDate,
       customer_id          as CustomerID,
